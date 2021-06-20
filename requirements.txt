@@ -1,7 +1,10 @@
+<<<<<<< HEAD
 alabaster==0.7.12
 anaconda-client==1.7.2
 anaconda-navigator==2.0.3
 anaconda-project @ file:///tmp/build/80754af9/anaconda-project_1621348054992/work
+=======
+>>>>>>> 360cc88e409808c092c46f74cf55090bf245f216
 anyio==3.2.0
 argh==0.26.2
 argon2-cffi @ file:///C:/ci/argon2-cffi_1613038019788/work
